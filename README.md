@@ -12,6 +12,8 @@ Requirements:
 - Picture of the food chosen
 - Why is it special to you
 
+NOTE: Upon working on your webpage, please wait for the issue to be officially assigned to you prior to making any changes. Once the issue is officially assigned to you, you may work in the designated folder that corresponds to your issue number.
+
 NOTE: The order of the requirements listed does not matter, feel free to structure your webpage to your preferences.
 
 # INSTALLATION
