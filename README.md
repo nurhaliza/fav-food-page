@@ -32,7 +32,7 @@ git clone https://github.com/username/fav-food-page.git
 2) Open project folder with [VS Code](https://code.visualstudio.com/) or any other text editor that supports CSS/HTML/Javascript 
 3) Checkout to your newly created branch 
 4) Open folder number that corresponds to your issue number
-5) Open index.html
+5) Open index.html OR use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension
 
 # TESTING THE PROGRAM
 When trying to check what your webpage looks like, click on the html file and the webpage should be displayed on your web browser. 
@@ -43,7 +43,8 @@ NOTE: Make sure all files are saved prior to checking your webpage each time.
 [Front-End Coding Standards](https://github.com/bendc/frontend-guidelines)
 
 # NEED HELP?
-Feel free to message me via Discord or simply write your concerns in your issue page.
+Feel free to email me at: nurhaliza@csu.fullerton.edu
+OR express your concerns in your issue page.
 
 # THANK YOU ~
-Any contribtuions made are greatly appreciated and I hope that this project helps in jumpstarting or furthering your development with front-end work!
+Any contributions made are greatly appreciated and I hope that this project helps in jumpstarting or furthering your development with front-end work!
