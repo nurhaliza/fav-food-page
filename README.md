@@ -41,3 +41,9 @@ NOTE: Make sure all files are saved prior to checking your webpage each time.
 
 # CODING STANDARDS
 [Front-End Coding Standards](https://github.com/bendc/frontend-guidelines)
+
+# NEED HELP?
+Feel free to message me via Discord or simply write your concerns in your issue page.
+
+# THANK YOU ~
+Any contribtuions made are greatly appreciated and I hope that this project helps in jumpstarting or furthering your development with front-end work!
