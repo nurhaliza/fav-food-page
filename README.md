@@ -2,6 +2,11 @@
 # PURPOSE
 This repository serves as a place of inspiration for web-development practice. 
 
+# LANGUAGES
+- CSS
+- HTML
+- Javascript (if necessary)
+
 # DIRECTIONS
 Please create a webpage based on your favorite food! Feel free to be creative with how you want to go about creating your page. 
 
