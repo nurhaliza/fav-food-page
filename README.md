@@ -21,7 +21,7 @@ NOTE: The order of the requirements listed does not matter, feel free to structu
 NOTE: Prior to contributing, you must first comment on the issue you would like to work on to officially claim that issue. Once that is done, it will be reviewed and you will be notified when it is approved. As soon as it is approved, you may then be able to contribute. 
 2) Fork the repository
 3) Create a branch to commit to
-4) Work on your contirbution 
+4) Work on your contribution 
 5) Create and submit a pull request once you have completed the requirements of the issue
 
 # RUNNING THE PROGRAM
